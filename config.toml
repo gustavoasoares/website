@@ -108,6 +108,16 @@ googleAnalytics = "9188189"
   weight = 4
 
 [[menu.main]]
+  name = "Students"
+  url = "#students"
+  weight = 5
+
+[[menu.main]]
+  name = "Service"
+  url = "#service"
+  weight = 6
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 7
